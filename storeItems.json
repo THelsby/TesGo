@@ -1,0 +1,6 @@
+{"_id": 1, "itemName": "bread", "price": 1.99, "stock": 5, "inSale": 0, "saleAmount" : 0}
+{"_id": 2, "itemName": "eggs", "price": 2.50, "stock": 3, "inSale": 1, "saleAmount" : 20}
+{"_id": 3, "itemName": "bacon", "price": 3.40, "stock": 4, "inSale": 0, "saleAmount" : 0}
+{"_id": 4, "itemName": "chicken", "price": 5.99, "stock": 6, "inSale": 0, "saleAmount" : 0}
+{"_id": 5, "itemName": "beef", "price": 4.50, "stock": 3, "inSale": 1, "saleAmount" : 40}
+{"_id": 6, "itemName": "cereal", "price": 2.40, "stock": 8, "inSale": 0, "saleAmount" : 0}
